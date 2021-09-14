@@ -8,17 +8,11 @@
 
 -    I bring a good mix of technical and soft skills to enable a team or management to deliver business goals effectively. 
 -    Skills : Python  - Data Science - MIT -2022 JAN
--             Fintech - Finacial Technologies - University of Toronto August 2021
--             FullStack - Non cetificate - Georgia Tech 2019 
-              Project Managment - Certificate - University of Toronto
-              Risk Managment - Certificate University of Toronto
-              Business Analytics - Certificate - University of Toronto
-              Diploma in computer science
-              
+-    Fintech - Finacial Technologies - University of Toronto August 2021
+-    FullStack - Non cetificate - Georgia Tech 2019 
+-    Project Managment - Certificate - University of Toronto
+-    Risk Managment - Certificate University of Toronto
+-    Business Analytics - Certificate - University of Toronto
+-    Diploma in computer science         
 
 -    Contact: inqcity@gmail.com or call me at +1 416 738 4505.
-
-<!---
-DaveD55555/DaveD55555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
