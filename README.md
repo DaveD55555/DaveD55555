@@ -2,7 +2,7 @@
      
 - 👀 I’m interested in FinTech, Data Science, Product development in general and currently following Professional education at MIT for Data Science (Completion 2022 January).
 
-- 🌱 I am a fast learner of new skills and technologies, whether it is for a new Product idea, existing Project or building a  portfolio: I understand - Ideation, MVP, product development, testing, launching, analytics & scaling of a product and or services.
+- 🌱 I am a fast learner of new skills and technologies, whether it is for a new product idea, existing project or building a  portfolio: I understand - Ideation, MVP, product development, testing, launching, analytics & scaling of a product and or services.
 
 - 📫 I have also experience in Pitching product ideas,  Product training, coaching and public speaking along with sales and marketing know how.
 
